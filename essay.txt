@@ -4,3 +4,5 @@ hola
 friends
 amigos
 everyone
+sir
+ma'am
