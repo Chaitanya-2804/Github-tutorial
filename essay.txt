@@ -6,3 +6,5 @@ amigos
 everyone
 sir
 ma'am
+ICT
+BEC
